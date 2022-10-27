@@ -1,0 +1,107 @@
+
+.header {
+  
+position: absolute;
+background: #F55A5A;
+width: 100%;
+
+text-align: center;
+top: 0px;
+left: 0px;
+font-family: 'Inter';
+font-style: normal;
+color: #FFFFFF;
+
+}
+
+.travel--card {
+  display: flex;
+  
+  margin-top: 100px;
+  
+  
+  
+
+}
+
+.travel--image {
+  margin-left: 30px;
+  padding-right: 50px;
+}
+
+.travel--info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  
+}
+
+
+.destination--loc {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  padding-bottom: 22px;
+}
+
+.country {
+ 
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40.24px;
+line-height: 12px;
+letter-spacing: 0.17em;
+
+color: #2B283A;
+  
+}
+a {
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20.24px;
+line-height: 12px;
+letter-spacing: 0.17em;
+
+color: #2B283A;
+text-align:end;
+
+}
+
+.destination--name {
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #2B283A;
+padding-bottom: 20px;
+
+}
+
+.destination--date {
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15.24px;
+line-height: 12px;
+
+color: #2B283A;
+padding-bottom: 20px;
+
+
+}
+.destination--exp {
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15.24px;
+line-height: 12px;
+
+color: #2B283A;
+text-align: justify;
+
+}
+
