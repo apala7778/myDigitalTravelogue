@@ -7,3 +7,4 @@ this digital travelogue consist of two components
 1. Header
 2. TravelCard
    
+   <img src="public/images/Rectangle 77.png" width="100" />
